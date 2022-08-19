@@ -3,11 +3,11 @@
     "note": "Все переводы предоставлены нашим сообществом. Мы не можем гарантировать правильность и качество переводов."
   },
   "common": {
-    "moderator": "Модератор",
-    "author": "Автор",
-    "reason": "Причина",
-    "channel": "Канал",
-    "duration": "Длительность",
+    "moderator": "Moderator",
+    "author": "Author",
+    "reason": "Reason",
+    "channel": "Channel",
+    "duration": "Duration",
     "requester": "Запрос от {user}"
   },
   "commands": {
